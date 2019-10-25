@@ -13,6 +13,8 @@ Keras - 2.3.1
 
 CUDA - 10.0
 
+cuDNN - 7.6.4
+
 Processor - i7-9750H
 
 GPU - RTX 2080 Max-Q (Overclockable)
