@@ -17,4 +17,4 @@ cuDNN - 7.6.4
 
 Processor - i7-9750H
 
-GPU - RTX 2080 Max-Q (Overclockable)
+GPU - RTX 2080 Max-Q (90W)
